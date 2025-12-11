@@ -1,0 +1,17 @@
+2025-12-11 17:01:49 [INFO] Starting SafeipApplication using Java 24.0.2 with PID 6045 (/Users/esteves/1. Projetos/SafeIP/BackEnd/safeip/target/classes started by esteves in /Users/esteves/1. Projetos/SafeIP/BackEnd/safeip)
+2025-12-11 17:01:49 [INFO] No active profile set, falling back to 1 default profile: "default"
+2025-12-11 17:01:49 [INFO] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-12-11 17:01:49 [INFO] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-12-11 17:01:49 [INFO] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-12-11 17:01:49 [INFO] Finished Spring Data repository scanning in 22 ms. Found 6 JPA repository interfaces.
+2025-12-11 17:01:50 [INFO] Tomcat initialized with port 8080 (http)
+2025-12-11 17:01:50 [INFO] Root WebApplicationContext: initialization completed in 604 ms
+2025-12-11 17:01:50 [INFO] No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-12-11 17:01:52 [INFO] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-12-11 17:01:52 [WARN] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-12-11 17:01:52 [INFO] LiveReload server is running on port 35729
+2025-12-11 17:01:52 [INFO] Tomcat started on port 8080 (http) with context path '/'
+2025-12-11 17:01:52 [INFO] Started SafeipApplication in 3.052 seconds (process running for 3.317)
+2025-12-11 17:01:52 [INFO] Commencing graceful shutdown. Waiting for active requests to complete
+2025-12-11 17:01:52 [INFO] Graceful shutdown complete
+2025-12-11 17:01:52 [INFO] Closing JPA EntityManagerFactory for persistence unit 'default'
